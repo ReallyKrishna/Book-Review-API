@@ -12,5 +12,5 @@ A RESTful API for managing books and reviews with user authentication.
 ## Setup Instructions
 **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ReallyKrishna/Book-Review-API.git>
    cd book-review-api
